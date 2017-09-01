@@ -1,0 +1,6 @@
+D:\MyProject\GetShp\GetShp\bin\Release\GetShp.exe
+D:\MyProject\GetShp\GetShp\obj\Release\GetShp.GetShp.resources
+D:\MyProject\GetShp\GetShp\obj\Release\GetShp.Properties.Resources.resources
+D:\MyProject\GetShp\GetShp\obj\Release\GetShp.csproj.GenerateResource.Cache
+D:\MyProject\GetShp\GetShp\obj\Release\GetShp.exe
+D:\MyProject\GetShp\GetShp\obj\Release\GetShp.csprojResolveAssemblyReference.cache

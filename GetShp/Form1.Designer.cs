@@ -118,7 +118,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(395, 84);
             this.label3.TabIndex = 4;
-            this.label3.Text = "提示:1.支持拖拽源文件；\r\n\r\n     2.路径与文件名只支持中文，若文件名包含中文，请重命名为英文；\r\n\r\n     3.同一源文件不能多次解析到同一目标文" +
+            this.label3.Text = "提示:1.支持拖拽源文件；\r\n\r\n     2.路径与文件名只支持英文，若文件名包含中文，请重命名为英文；\r\n\r\n     3.同一源文件不能多次解析到同一目标文" +
     "件夹，若要如此，请删除\r\n\r\n       目标文件夹下，由此文件解析得到的shp文件。";
             // 
             // runBT
